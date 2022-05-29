@@ -1,6 +1,6 @@
 /* user and group to drop privileges to */
 static const char *user  = "spy";
-static const char *group = "spy";
+static const char *group = "users";
 
 /* colour definitions */
 static const char *colorname[NUMCOLS] = {
